@@ -1,0 +1,27 @@
+{
+	"folders": [
+		{
+			"path": "../.."
+		},
+		{
+			"path": "../../../proyectoalgoypro"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "FirstApp",
+		"cSpell.words": [
+			"creación",
+			"foto",
+			"informacion",
+			"Información",
+			"Juego",
+			"Nosotros",
+			"participantes",
+			"pensar",
+			"poner",
+			"proye",
+			"titulo",
+			"vamos"
+		]
+	}
+}
